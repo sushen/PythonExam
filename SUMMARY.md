@@ -8,6 +8,6 @@
   * [3. Write about Integers, Float number.](python-exam-question-1/3.-write-about-integers-float-number..md)
   * [4. What is list? how can it defined? mark: 3](python-exam-question-1/4.-what-is-list-how-can-it-defined-mark-3.md)
   * [5. What is the indexing system of List? mark: 3](python-exam-question-1/5.-what-is-the-indexing-system-of-list-mark-3.md)
+  * [6. Describe del, pop, remove, len function of List with example. mark: 4](python-exam-question-1/6.-describe-del-pop-remove-len-function-of-list-with-example.-mark-4.md)
 * [Python Exam Question 2](python-exam-question-2.md)
-* [6. Describe del, pop, remove, len function of List with example. mark: 4](6.-describe-del-pop-remove-len-function-of-list-with-example.-mark-4.md)
 
