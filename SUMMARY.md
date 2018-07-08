@@ -10,5 +10,4 @@
   * [5. What is the indexing system of List? mark: 3](python-exam-question-1/5.-what-is-the-indexing-system-of-list-mark-3.md)
   * [6. Describe del, pop, remove, len function of List with example. mark: 4](python-exam-question-1/6.-describe-del-pop-remove-len-function-of-list-with-example.-mark-4.md)
   * [7. How can we sort an unordered List? Explain with example. mark : 5](python-exam-question-1/7.-how-can-we-sort-an-unordered-list-explain-with-example.-mark-5.md)
-* [Python Exam Question 2](python-exam-question-2.md)
 
